@@ -1,0 +1,3 @@
+streamlit==1.66.1   # Apache-2.0 — веб-интерфейс
+pandas==3.0.5       # BSD-3-Clause — обработка таблиц
+openpyxl==3.1.5     # MIT — чтение и запись Excel
